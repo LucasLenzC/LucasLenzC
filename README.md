@@ -19,7 +19,14 @@
 ### 🧰 Ferramentas e DevOps
 ![Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse,figma)
 
-
+<div align="center">
+<h3><b>Análise Github</b> <h3>
+</div>
+  <br>
+  <p align="center">
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasLenzC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucasLenzC&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </p>
 
 
 ## Onde me encontrar
